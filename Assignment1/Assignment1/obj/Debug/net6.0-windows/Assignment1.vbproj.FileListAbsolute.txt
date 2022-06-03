@@ -1,0 +1,17 @@
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.vbproj.AssemblyReference.cache
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.Form1.resources
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.vbproj.GenerateResource.cache
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.AssemblyInfo.vb
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.vbproj.CoreCompileInputs.cache
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.exe
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.deps.json
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\bin\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.dll
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\refint\Assignment1.dll
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.pdb
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Lim\OneDrive\Desktop\vb\Assignment1\Assignment1\obj\Debug\net6.0-windows\ref\Assignment1.dll
